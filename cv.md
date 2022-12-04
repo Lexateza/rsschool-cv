@@ -16,3 +16,6 @@ After completing the course, I want to become front-end developer, get a job at 
 * Html
 * Css
 * Photoshop
+
+### Courses
+[HTML Academy](https://htmlacademy.ru/profile/id2005349)
