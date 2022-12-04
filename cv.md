@@ -20,6 +20,6 @@ After completing the course, I want to become front-end developer, get a job at 
 ### Courses
 [HTML Academy](https://htmlacademy.ru/profile/id2005349)
 
-###Languages
-* Russian(native)
-* English(a1)
+### Languages
+* Russian (native)
+* English (a1)
