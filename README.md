@@ -1,1 +1,1 @@
-https://Lexateza.github.io/rsschool-cv/cv
+https://Lexateza.github.io/rsschool-cv/
